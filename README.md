@@ -21,7 +21,7 @@
 
 ### <font color="#628FDB">**Tecnologias utilizadas no meu Repositório**</font>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNonnemacher&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ### <font color="#628FDB">**Tecnologias que já utilizei ou trabalhei**</font>
