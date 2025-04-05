@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45357c&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a68cff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Nonnemacher!;Estudo+Engenharia+da+Computação.;Trabalho+como+desenvolvedor+Front-End!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a68cff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Nonnemacher!;Estudo+Engenharia+da+Computação.;Trabalho+como+desenvolvedor+Front-End!)](https://git.io/typing-svg)
 
 ## ✌️😊 - Sobre mim...
 <p>
@@ -12,8 +12,6 @@
   Minha experiência está principalmente focada em Angular (Typescript e Javascript), mas tendo contato com outras stacks.
   Meu objetivo aqui no Github é aprofundar meus conhecimentos e compartilhar o que aprendi, contribuindo para o desenvolvimento mútuo da comunidade.
 </p>
-
-<br />
 
 ## ⚒️⚙️ - Stacks
 <div style="display: inline_block">
@@ -27,8 +25,6 @@
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-<br />
 
 ## 📲📩 - Contato
 <div> 
