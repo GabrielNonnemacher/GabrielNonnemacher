@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a68cff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Nonnemacher!;Estudo+Engenharia+da+Computação.;Trabalho+como+desenvolvedor+Front-End!)](https://git.io/typing-svg)
 
-## ✌️😊 - Sobre mim...
+## ✌️😊 Sobre mim...
 <p>
   Olá, tudo bem?!
 </p>
@@ -13,7 +13,7 @@
   Meu objetivo aqui no Github é aprofundar meus conhecimentos e compartilhar o que aprendi, contribuindo para o desenvolvimento mútuo da comunidade.
 </p>
 
-## ⚒️⚙️ - Stacks
+## ⚒️⚙️ Stacks
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,7 +26,7 @@
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## 📲📩 - Contato
+## 📲📩 Contato
 <div> 
   <a href="https://www.instagram.com/nonnemacher_gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://discord.com/users/917832430788952104" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
